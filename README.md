@@ -9,3 +9,5 @@ Lab Assignment-3 : https://github.com/ManasaReddyThipparthi/BigData-Spring2017/w
 Lab Assignment-4 : https://github.com/ManasaReddyThipparthi/BigData-Spring2017/wiki/LabAssignment-4
 
 Lab Assignment-5 : https://github.com/ManasaReddyThipparthi/BigData-Spring2017/wiki/LabAssignment-5
+
+Lab Assignment-6 : https://github.com/ManasaReddyThipparthi/BigData-Spring2017/wiki/LabAssignment-6
